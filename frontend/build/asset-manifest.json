@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a792cc9.chunk.css",
+    "main.js": "/static/js/main.50f9bbd8.chunk.js",
+    "main.js.map": "/static/js/main.50f9bbd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f1f19a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f1f19a3.js.map",
+    "static/css/2.254b507e.chunk.css": "/static/css/2.254b507e.chunk.css",
+    "static/js/2.5a0d2b26.chunk.js": "/static/js/2.5a0d2b26.chunk.js",
+    "static/js/2.5a0d2b26.chunk.js.map": "/static/js/2.5a0d2b26.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a488e0cc9867f90b904878e20ff3bc01.js": "/precache-manifest.a488e0cc9867f90b904878e20ff3bc01.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.254b507e.chunk.css.map": "/static/css/2.254b507e.chunk.css.map",
+    "static/css/main.6a792cc9.chunk.css.map": "/static/css/main.6a792cc9.chunk.css.map",
+    "static/js/2.5a0d2b26.chunk.js.LICENSE.txt": "/static/js/2.5a0d2b26.chunk.js.LICENSE.txt",
+    "static/media/vis-network.min.css": "/static/media/editIcon.d5422321.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f1f19a3.js",
+    "static/css/2.254b507e.chunk.css",
+    "static/js/2.5a0d2b26.chunk.js",
+    "static/css/main.6a792cc9.chunk.css",
+    "static/js/main.50f9bbd8.chunk.js"
+  ]
+}
